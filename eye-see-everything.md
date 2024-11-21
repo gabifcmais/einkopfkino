@@ -63,7 +63,7 @@ The eye of the tiger
 The eye of the tiger
 The eye of the tiger</p></marquee>
     <br><br><br><br><br><br>
-    <img src="docs/assets/kk-olhos.png" alt="Eyes" width="120" background-color: transparent;>
+    <img src="docs/assets/kk-olhos.png" alt="Eyes" width="120">
 
   </center>
 </body>
