@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-<html>
-
-  layout: page
+layout: page
 title: "Eye See Everything"
 permalink: /eye-see-everything
 
+<!DOCTYPE html>
+<html>
   <style>
   * {
   margin: 0;
@@ -29,9 +28,7 @@ body {
  
 }
 </style>
-<head>
 
-</head>
 <body>
   <center>
   <marquee>
@@ -73,6 +70,3 @@ The eye of the tiger</p></marquee>
   </center>
 </body>
 </html>
-$ git add index.html about.html
-$ git commit -m "Add an about page"
-$ git push origin main
