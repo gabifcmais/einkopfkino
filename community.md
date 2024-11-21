@@ -30,7 +30,7 @@ h1 {
 <header hidden> </header>
 <body>
   <center>
-    <img src="docs/assets/kk-team-transp.png" alt="Eyes" width="500">
+    <img src="docs/assets/kk-team-transp.png" alt="Eyes" width="900">
 
   </center>
 </body>
