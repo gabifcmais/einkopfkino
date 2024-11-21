@@ -12,6 +12,7 @@ body {
   font-size: 14px;
   padding:20px;
   color:#24ff73
+  background-color:#ff32d2;
  
 }
 }
@@ -21,10 +22,10 @@ h1 {
   color:#000000
 }
 
-body {
-  background-color:#ff32d2;
- 
-}
+     img {
+  	    background-color: transparent!important;
+    }
+    
 </style>
 <header hidden> </header>
 <body>
