@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+
+  layout: page
+title: "Eye See Everything"
+permalink: /eye-see-everything
+
   <style>
   * {
   margin: 0;
