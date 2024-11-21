@@ -11,7 +11,7 @@
 body {
   font-size: 14px;
   padding:20px;
-  color:#24ff73
+  color:#24ff73;
   background-color:#ff32d2;
  
 }
