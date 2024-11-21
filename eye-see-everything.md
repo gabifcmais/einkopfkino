@@ -13,6 +13,8 @@ body {
   font-size: 14px;
   padding:20px;
   color:#24ff73
+  background-color: transparent;
+}
 }
 h1 {
   font-size: 60px;
@@ -62,7 +64,7 @@ The eye of the tiger
 The eye of the tiger
 The eye of the tiger</p></marquee>
     <br><br><br><br><br><br>
-    <img src="docs/assets/kk-olhos.png" alt="Eyes" width="600">
+    <img src="docs/assets/kk-olhos.png" alt="Eyes" width="120">
 
   </center>
 </body>
