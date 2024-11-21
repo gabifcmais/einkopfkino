@@ -1,6 +1,6 @@
-
 <!DOCTYPE html>
 <html>
+  
   <style>
   * {
   margin: 0;
@@ -13,7 +13,7 @@ body {
   font-size: 14px;
   padding:20px;
   color:#24ff73
-  background-color: transparent;
+ 
 }
 }
 h1 {
@@ -64,7 +64,7 @@ The eye of the tiger
 The eye of the tiger
 The eye of the tiger</p></marquee>
     <br><br><br><br><br><br>
-    <img src="docs/assets/kk-olhos.png" alt="Eyes" width="120">
+    <img src="docs/assets/kk-olhos.png" alt="Eyes" width="120" background-color: transparent>
 
   </center>
 </body>
