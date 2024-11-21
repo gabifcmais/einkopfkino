@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Eye See Everything"
 permalink: /eye-see-everything
+---
 
 <!DOCTYPE html>
 <html>
