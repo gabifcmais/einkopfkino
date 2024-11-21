@@ -26,7 +26,7 @@ body {
  
 }
 </style>
-
+<header hidden> </header>
 <body>
   <center>
   <marquee>
