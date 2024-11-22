@@ -12,7 +12,7 @@ body {
   font-size: 140px;
   padding:20px;
   color:#24ff73;
-  background-image: url("https://mymessyworldhere.wordpress.com/wp-content/uploads/2015/01/p1060732.jpg");
+  background-image: url("https://cdn.openart.ai/stable_diffusion/8a2f748abe9e3195ae0fbb8234f25d3dd5ac71b1_2000x2000.webp");
   background-repeat: no-repeat;
  
 }
