@@ -23,8 +23,7 @@ h1 {
   color:#cbf636
 }
     h2 {
-  font-size: 130px;
-  padding:20px;
+  font-size: 70px;
   color:#cbf636
 }
 
