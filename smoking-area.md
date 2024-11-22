@@ -9,10 +9,11 @@
 }
 
 body {
-  font-size: 14px;
+  font-size: 140px;
   padding:20px;
   color:#24ff73;
-  background-color:#f636a1;
+  background-image: url("https://mymessyworldhere.wordpress.com/wp-content/uploads/2015/01/p1060732.jpg");
+  background-repeat: no-repeat;
  
 }
 }
@@ -31,7 +32,8 @@ h1 {
 <header hidden> </header>
 <body>
   <center>
-   <h1><i>FUCK...!!!! I lost the remote AGAIN..</i></h1>
+    <br><br>
+   <p><i>FUCK...!!!! I lost the remote AGAIN..</i></p>
    <br><br><br><br>
    <img src="docs/assets/marlboro-pack.gif" width="300">
 <br><br>
