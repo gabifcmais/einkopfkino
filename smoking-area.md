@@ -12,13 +12,18 @@ body {
   font-size: 140px;
   padding:20px;
   color:#24ff73;
-  background-image: url("https://cdn.openart.ai/stable_diffusion/8a2f748abe9e3195ae0fbb8234f25d3dd5ac71b1_2000x2000.webp");
+  background-color:#f636a1;
   background-repeat: no-repeat;
  
 }
 }
 h1 {
   font-size: 120px;
+  padding:20px;
+  color:#cbf636
+}
+    h2 {
+  font-size: 130px;
   padding:20px;
   color:#cbf636
 }
@@ -33,7 +38,7 @@ h1 {
 <body>
   <center>
     <br><br>
-   <p><i>FUCK...!!!! I lost the remote AGAIN..</i></p>
+   <h2><i>FUCK...!!!! I lost the remote AGAIN..</i></h2>
    <br><br><br><br>
    <img src="docs/assets/marlboro-pack.gif" width="300">
 <br><br>
