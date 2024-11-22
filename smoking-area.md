@@ -36,10 +36,9 @@ h1 {
 <header hidden> </header>
 <body>
   <center>
-
-   <h2><i>FUCK...!!!! I lost the remote AGAIN..</i></h2>
-   <br><br>
    <img src="docs/assets/marlboro-pack.gif" width="300">
+   <h2><i>FUCK...!!!! I lost the remote AGAIN..</i></h2>
+   <br>
 <br><br>
   </center>
 </body>
