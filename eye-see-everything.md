@@ -23,7 +23,7 @@ h1 {
   color:#cbf636
 }
     h2 {
-  font-size: 130px;
+  font-size: 400px;
   padding:20px;
   color:#cbf636
 }
@@ -37,7 +37,8 @@ h1 {
 <header hidden> </header>
 <body>
   <center>
-    <br><br>
+    <br><br>    <br><br>
+
    <img src="docs/assets/remote.png" width="200">
 <br><br>
   </center>
