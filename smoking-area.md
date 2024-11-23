@@ -44,7 +44,7 @@ h1 {
 
 <footer>
   <center>
-  <a href="index.html"><img src="docs/assets/darling.png">Darling, Come Back Home</a>
+  <a href="index.html"><img src="docs/assets/darling.png"><br>Darling, Come Back Home</a>
  </center>
 </footer>
 
