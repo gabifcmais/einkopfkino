@@ -39,7 +39,7 @@ h1 {
   <center>
     <br><br>    <br><br>
 
-   <img src="docs/assets/remote.png" width="200">
+   <a href="/einkopfkino/blackout.md"><img src="docs/assets/remote.png" width="200"></a>
 <br><br>
   </center>
 </body>
