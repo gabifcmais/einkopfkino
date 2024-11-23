@@ -42,4 +42,12 @@ h1 {
 <br><br>
   </center>
 </body>
+
+<footer>
+  <center>
+  <a href="index.html"><img src="docs/assets/darling.png"></a>
+ <center>
+</footer>
+
+
 </html>
