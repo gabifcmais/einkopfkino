@@ -44,7 +44,7 @@ body {
  
  <br>
 
-<a href="index.html"><img src="docs/assets/tv-black.png"></a>
+<a href="index.html"><img src="docs/assets/tv_black.png"></a>
 
     
   </center>
