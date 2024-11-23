@@ -9,7 +9,7 @@
 }
 
 body {
-  font-size: 140px;
+  font-size: 14px;
   padding:20px;
   color:#24ff73;
   background-color:#f636a1;
@@ -38,14 +38,13 @@ h1 {
   <center>
    <img src="docs/assets/marlboro-pack.gif" width="300">
    <h2><i>FUCK...!!!! I lost the remote AGAIN..</i></h2>
-   <br>
 <br><br>
   </center>
 </body>
 
 <footer>
   <center>
-  <a href="index.html"><img src="docs/assets/darling.png"><p>Darling, Come Back Home</p></a>
+  <a href="index.html"><img src="docs/assets/darling.png">Darling, Come Back Home</a>
  </center>
 </footer>
 
