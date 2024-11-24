@@ -46,7 +46,7 @@ h1 {
 <br><br><br><br>
 <footer>
   <center>
-  <a href="index.html"><img src="docs/assets/3dgifmaker07650.gif" width="120px" class="center"><br>I don't to sing and play piano.</a>
+  <a href="index.html"><img src="docs/assets/3dgifmaker07650.gif" width="120px" class="center"><br>I don't want to sing and play piano.</a>
  </center>
 </footer>
 
