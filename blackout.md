@@ -39,11 +39,9 @@ body {
   <div>
   <center>
      <br><br><br><br>
-    <div>
-    <img src="docs/assets/text.gif" width="400">
+    <a href="index.html"><img src="docs/assets/text.gif" width="400"></a>
       <br>
-     <img src="docs/assets/club.gif" width="200"> 
-      </div>
+         <a href="index.html"><img src="docs/assets/club.gif" width="200"></a>
  
  <br>
 
