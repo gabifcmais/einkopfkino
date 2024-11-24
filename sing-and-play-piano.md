@@ -39,7 +39,7 @@ h1 {
    <img src="docs/assets/poster-sing.jpg" width="450">
 <br><br>
 <div>
-<iframe frameborder="0" scrolling="no" src="https://mczak.com/code/piano/pianoframe/" style="border:0px solid #eee; overflow:hidden; width:412px; height:340px;" width=
+<iframe frameborder="0" scrolling="no" src="https://mczak.com/code/piano/pianoframe/" style="border:0px solid #eee; overflow:hidden; width:412px; height:340px;" width="412"></iframe>
     </div>
   </center>
 </body>
