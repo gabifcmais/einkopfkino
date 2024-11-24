@@ -27,12 +27,16 @@ body {
       img {
   	    background-color: transparent!important;
     }
+     div {
+    height: 100vh;
+}
      
 </style>
    
    
 </head>
 <body>
+  <div>
   <center>
      <br><br><br><br>
     <div>
@@ -47,6 +51,7 @@ body {
 
     
   </center>
+  </div>
 </body>
 
    
