@@ -22,6 +22,7 @@ h1 {
      
 body {
     background-image: url('docs/assets/kopfkino-blackout-bg.jpg');
+    background-size: cover;
 }
 
       img {
