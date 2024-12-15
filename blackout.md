@@ -21,7 +21,7 @@ h1 {
 }
      
 body {
-  background-color:#000000;
+    background-image: url('docs/assets/kopfkino-blackout-bg.jpg');
 }
 
       img {
